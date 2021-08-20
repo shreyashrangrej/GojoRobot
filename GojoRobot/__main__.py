@@ -84,9 +84,9 @@ buttons = [
             text="➕️ ᴀᴅᴅ Gojo ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕️", url="t.me/MasterGojoBot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="ᴀʙᴏᴜᴛ", callback_data="Gojo_"),
+        InlineKeyboardButton(text="📚ᴀʙᴏᴜᴛ📚", callback_data="Gojo_"),
         InlineKeyboardButton(
-            text="ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"
+            text="👥ꜱᴜᴘᴘᴏʀᴛ👥", url=f"https://t.me/{SUPPORT_CHAT}"
         ),
     ],
     [
@@ -94,7 +94,7 @@ buttons = [
             text="Wanna Know Who I'm?👀", url="t.me/Jujutsu_Kaisen_Dubbed"),
     ],
     [
-        InlineKeyboardButton(text="ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ❔", callback_data="help_back"),
+        InlineKeyboardButton(text="🤖 ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ❔", callback_data="help_back"),
     ],
 ]
 
