@@ -90,6 +90,10 @@ buttons = [
         ),
     ],
     [
+        InlineKeyboardButton(
+            text="wanna Know Who I'm?👀", url="t.me/Jujutsu_Kaisen_Dubbed"),
+    ],
+    [
         InlineKeyboardButton(text="ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ❔", callback_data="help_back"),
     ],
 ]
