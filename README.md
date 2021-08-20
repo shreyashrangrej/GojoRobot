@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/329647a798cccb101aecf.jpg">
+  <img src="https://telegra.ph/file/585c5efcc2096be2f3866.jpg">
 </p>
 
 # Gojo Group BoT
