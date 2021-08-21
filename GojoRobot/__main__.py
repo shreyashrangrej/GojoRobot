@@ -106,7 +106,7 @@ HELP_STRINGS = """
 Gojo_IMG = "https://telegra.ph/file/77edd7591430c1d51e916.mp4"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
- You can support the project via [Paypal](#) or by contacting @itsmelegend\
+ You can support the project via [Paypal](#) or by contacting @ShreyashRangrej\
  Supporting isnt always financial! \
  Those who cannot provide monetary support are welcome to help us develop the bot at ."""
 
